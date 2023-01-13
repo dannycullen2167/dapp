@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cname: MyString
+  cphone: 1
+  ccard: 1
+  numpeople: 1
+  deposit: false
+
+two:
+  cname: MyString
+  cphone: 1
+  ccard: 1
+  numpeople: 1
+  deposit: false
